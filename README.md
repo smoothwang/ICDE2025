@@ -1,3 +1,7 @@
-# ICDE2025
-All the code, data, scripts, and notebooks are available at the following Baidu Yun disk link:
-Link: https://pan.baidu.com/s/11x0t1bWWXcYbNaa--r0G8w?pwd=E1B4 
+The datasets can be acquired from the following link:
+
+Elliptic --- https://www.kaggle.com/datasets/ellipticco/elliptic-data-set
+Elliptic++ --- https://github.com/git-disl/EllipticPlusPlus
+Credit Card Fraud Detection --- https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
+Malicious URL --- https://paperswithcode.com/dataset/malicious-urls-dataset
+Fraudulent Job Postings --- https://www.kaggle.com/datasets/shivamb/real-or-fake-fake-jobposting-prediction
