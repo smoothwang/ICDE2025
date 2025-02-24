@@ -1,4 +1,4 @@
-The datasets can be acquired from the following link:
+The code is located in the MASFDRL-dev_v0208/MASFDRL-dev folder. The datasets can be acquired from the following link:
 
 Elliptic --- https://www.kaggle.com/datasets/ellipticco/elliptic-data-set
 
